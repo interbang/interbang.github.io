@@ -1,0 +1,49 @@
+
+
+ 
+
+  a:link{
+    color:pink;
+
+  }
+a:visited {
+  color:green;
+}
+a:hover {
+  color:blue;
+  text-decoration: line-through;
+}
+  h3 {
+
+    color: blue;
+  }
+
+li {
+  
+  list-style-type:square;
+  color:brown
+  
+}
+  h2 {
+
+    color: black
+  }
+
+ 
+li em {
+  color:rebeccapurple;
+}
+
+
+
+span {
+  color:red;
+}
+ 
+body p + h1.special {
+  color: yellow;
+  background-color: black;
+  padding: 5px;
+}
+  
+  
